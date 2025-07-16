@@ -1,0 +1,26 @@
+body {
+     color: black;
+}
+
+body {
+    background-color: rgba(255, 255, 210, 1);
+    background-image: url("../img/13783.png") ;
+    background-size: cover ;
+}
+
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: justify;
+    text-shadow: 3px 5px 5px cadetblue;
+}
+
+#boton{
+    background-color: rgba(255, 255, 210, 1);
+    background-image: url("../img/ioj.avif") ;
+    background-size: cover ;
+    height: 75px;
+    width: 120px
+
+
+    ;
+}
